@@ -14,160 +14,111 @@ return `
 ╭
   ❍ 𝐌𝐄𝐍𝐔 𝐈𝐍𝐅𝐎  ❐
 ╰
-*➢ping*
+*➢#ping*
 > ➥Velocidad del bot
-*➢perfil*
+*➢#perfil*
 > ➥Mira tu perfil
-*➢ship*
+*➢#ship*
 > ➥porcentaje de que le guste alguien
-*➢botcompleto*     
-> ➥Como tener un bot completo
-*➢grupos*
-> ➥Grupos oficiales 
-*➢canales*
-> ➥Canales oficiales
-*➢serbot*
-> ➥Como ser un bot
-*➢Personalizarbot*
-> ➥Como editar este bot
-*➢miapi*
-> ➥Mira tu API key
-*➢comprarapi*
-> ➥Como adquirir una clave API 
  
 ╭
    ❍ 𝐌𝐄𝐍𝐔 𝐀𝐃𝐌𝐈𝐍  ❐
 ╰  
-*➢welcome 1/0*
+*➢#welcome 1/0*
 > ➥Activa/desactiva las bienvenidas 
-*➢antilink 1/0*      
+*➢#antilink 1/0*      
 > ➥Activa/desactiva anti enlaces
-*➢modoadmin 1/0*
+*➢#modoadmin 1/0*
 > ➥Activa/desactiva el uso de solo adm.
-*➢todos*
+*➢#todos*
 > ➥menciona a todos con @
-*➢anuncio*
+*➢#anuncio*
 > ➥otra forma de mencionar a todos
-*➢ban/kick*
+*➢#ban/kick*
 > ➥Elima a un participante
-*➢notify*
+*➢#notify*
 > ➥notificación fantasma
 *➢grupo*
-> ➥abrir/cerrar grupo
+> ➥#abrir/cerrar grupo
 *➢rankrep*
-> ➥Ranking de reputación
-*➢rankcoins*
+> ➥#Ranking de reputación
+*➢#rankcoins*
 > ➥Ranking de coins
-*➢ranknivel*
+*➢#ranknivel*
 > ➥Ranking de nivel
  
- ╭
-  ❍ 𝐌𝐄𝐍𝐔 𝐃𝐄𝐒𝐂𝐀𝐑𝐆𝐀𝐒  ❐
-╰
-*➢play*
-> ➥Descarga músicas 
-*➢playvideo*
-> ➥Descarga videos 
-*➢playdoc*
-> ➥Descarga videos en documento
-*➢tiktok*
-> ➥Descarga videos de tiktok
-*➢facebook*
-> ➥Descarga videos de facebook 
-*➢instagram*
-> ➥Descarga videos de Instagram
-*➢mediafire*
-> ➥Descarga archivos de mediafire 
-*➢descargarapk*
-> ➥Desacarga apk
-*➢pinterest*
-> ➥Desacarga imagenes de pinterest
                   
 ╭
    ❍ 𝐌𝐄𝐍𝐔 𝐅𝐈𝐆𝐔𝐒  ❐
 ╰
-*➢sticker*
+*➢#sticker*
 > ➥convierte imagen/vídeo a sticker
-*➢attp*
+*➢#attp*
 > ➥Convierte texto a sticker 
-*➢attp2*
+*➢#attp2*
 > ➥Convierte texto a sticker 
-*➢attp3*
+*➢#attp3*
 > ➥Convierte texto a sticker 
-*➢Emojimix*           
+*➢#Emojimix*           
 > ➥Mezcla emojis
 ╭  
    ❍ 𝐌𝐄𝐍𝐔 𝐇𝐄𝐑𝐑𝐀𝐌𝐈𝐄𝐍𝐓𝐀𝐒  ❐
 ╰   
-*➢toimg*
+*➢#toimg*
 > ➥convierte sticker a imagen 
-*➢tomp3*      
+*➢#tomp3*      
 > ➥Convierte vídeo a audio
-*➢ytsearch*
-> ➥Buscar videos en Youtube
-*➢calc*
+*➢#calc*
 > ➥Calculadora en WhatsApp 
-*➢wikipedia*
-> ➥Busca información en Wikipedia
-*➢google*
-> ➥Busca información en Google 
-*➢simi*
-> ➥Habla hot con el bot
-*➢horoscopo*
-> ➥pronostico diario horoscopo
-*➢ia*
-> ➥preguntale a IA
-*➢chatgpt*
-> ➥preguntale a chatpgt 
  
 ╭                    
    ❍ 𝐌𝐄𝐍𝐔 - 𝐄𝐂𝐎𝐍𝐎𝐌𝐈𝐀  ❐       
 ╰      
-*➢Nivel*
+*➢#Nivel*
 > ➥Mira tu nivel
-*➢cartera*
+*➢#cartera*
 > ➥Revisa tu dinero 
-*➢reg*
+*➢#reg*
 > ➥Regiatrate en el sistema
-*➢listreg*
+*➢#listreg*
 > ➥Lista de registrados 
-*➢ruleta* 
+*➢#ruleta* 
 > ➥Juega a la ruleta 
-*➢levelup*
+*➢#levelup*
 > ➥Sube de nivel 
-*➢minar*
+*➢#minar*
 > ➥Mina y gana
-*➢regalar*
+*➢#regalar*
 > ➥Regala dinero
-*➢mireputacion*
+*➢#mireputacion*
 > ➥Mira tu reputación
-*➢tragamonedas*
+*➢#tragamonedas*
 > ➥Juega a tragamonedas 
-*➢dayli*   
+*➢#dayli*   
 > ➥Recibe tu recompensa diaria
-*➢pescar*      
+*➢#pescar*      
 > ➥Pesca y gana
-*➢tienda*     
+*➢#tienda*     
 > ➥Compra y vende experiencia 
-*➢casar* 
+*➢#casar* 
 > ➥Parejas aleatorias
  
 ╭
     ❍ 𝐌𝐄𝐍𝐔 𝐂𝐑𝐄𝐀𝐃𝐎𝐑  ❐
 ╰  
-*➢antiprivado*            
+*➢#antiprivado*            
 > ➥No aseptar personas en tu privado
-*➢revelarvisu*
+*➢#revelarvisu*
 > ➥Revela imagen de vista única 
-*➢reiniciar*
+*➢#reiniciar*
 > ➥Reinicia el bot
-*➢bangp*
+*➢#bangp*
 > ➥Bloquea el uso del bot en un grupo
-*➢unbangp*
+*➢#unbangp*
 > ➥Desbloquea el uso del bot en un grupo 
-*➢botoff*
+*➢#botoff*
 > ➥Apaga el bot      
-*➢boton*
+*➢#boton*
 > ➥Prende el bot
  
 `}
