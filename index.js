@@ -216,7 +216,7 @@ Dueño del bot: MrxSignal.
 `
 
 await sock.sendMessage(anu.id, {
-  image: { url: "https://i.postimg.cc/SKgZgyzb/Gemini-Generated-Image-ur7tfrur7tfrur7t.png" },
+  image: { url: "https://i.postimg.cc/ZngDFtGV/IMG-20260328-WA0177(1).jpg" },
   caption: sol,
   mentions: [num]  // 👈 Aquí haces la mención real
 })
@@ -234,7 +234,7 @@ if (anu.action == 'promote') {
 
 ✦━─┈༓༒༓┈─━✦
 `
-  await sock.sendMessage(anu.id,{image : { url : "https://i.postimg.cc/Pf912GL1/unnamed-(4).jpg" }, caption : teks})
+  await sock.sendMessage(anu.id,{image : { url : "https://i.postimg.cc/c4nDyjqf/IMG-20260328-WA0178.jpg" }, caption : teks})
     }
 
 } 
