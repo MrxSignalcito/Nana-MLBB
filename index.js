@@ -204,19 +204,12 @@ const sol = `
 *✧༺ 𝑩𝒊𝒆𝒏𝒗𝒆𝒏𝒊𝒅𝒐/𝒂 ✦༻✧*
 
 💌 「 Hola @${num.split('@')[0]} 🌟 y bienvenido/a al reino de *${grup}* 」
-Nos alegra tenerte aquí 💬
-
-📌 Reglas básicas:
-• Respeta a todos los miembros 🤝
-• No spam 🚫
-• Mantén el tema del grupo 📢
-
-💡 Preséntate para conocerte mejor 😊
-
-👑 Dueño: MrxSignal
-🤖 Bot activo las 24/7
-
-¡Disfruta tu estancia! 🚀
+🔥 gracias por unirse 💪 Aquí venimos a pasarla bien, armar buenas partidas, subir rango y apoyarnos como equipo.
+⚠️ Muy importante: No olviden leer las reglas del grupo. Están para mantener el orden, el respeto y que todo fluya sin problemas. El que no las lea después no diga que no sabía 👀
+Actitud competitiva pero con respeto siempre. Nada de toxicidad, aquí somos team 💙
+🎮 ¡Que comiencen las victorias!
+ATT: Dav.
+Dueño del bot: MrxSignal.
  
 『 👥 Miembros actuales: ${mem} 』
 ✦━─⌬༓༒༓⌬─━✦
