@@ -938,9 +938,8 @@ if(!isGroupAdmins) return enviartexto ("El bot necesita ser administrador")
 			break
 
 
-case 'kick' :
-case 'ban' :
-case 'largate' :{
+case '#kick' :
+case '#expulsar' :{
 if (!isGroup) return  
 if(!isGroupAdmins) return enviar(respuesta.admin)
 if(!isBotGroupAdmins) return enviar (respuesta.botadmin)
